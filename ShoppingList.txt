@@ -8,3 +8,6 @@ Carrot
 Cucumber
 Cherries
 Grapes
+Watermelon
+Kolanut
+Banana
