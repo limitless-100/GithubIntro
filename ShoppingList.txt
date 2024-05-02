@@ -6,3 +6,5 @@ Oranges
 Pawpaw
 Carrot
 Cucumber
+Cherries
+Grapes
